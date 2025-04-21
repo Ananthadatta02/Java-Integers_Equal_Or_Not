@@ -1,5 +1,4 @@
 
-  
 # Integers Equal or Not - Java Program
 
 ## Description
